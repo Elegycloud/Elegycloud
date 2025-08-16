@@ -45,15 +45,3 @@
     <img src="https://count.getloli.com/get/@Elegycloud?theme=rule34" alt="Visitor Count" />
   </span>
 </p>
-
-<p align="center">
-  <a href="https://discord.com/invite/kpYzPgv8Ur">
-    <img src="https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://space.bilibili.com/1930770874" target="_blank">
-    <img src="https://img.shields.io/badge/Bilibili-FA7298?style=for-the-badge&logo=bilibili&logoColor=white" />
-  </a>
-  <a href="mailto:sakura@bluearchive.cc">
-    <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=MAIL&logoColor=white" />
-  </a>
-</p>
