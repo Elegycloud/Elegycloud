@@ -1,6 +1,6 @@
 ![header](./8d05e5365bc5a95491ee4cb834985091fe8ed784.png)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&center=true&multiline=true&width=435&lines=%E5%9B%B0%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AF%E3%80%81%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6;%E5%8F%8C%E8%91%89%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%B0%E3%80%81%E3%81%99%E3%81%90%E5%88%86%E3%81%8B%E3%82%8B%E3%82%88;%E6%A2%93%E5%B7%9D%E3%80%81%E5%90%9B%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E%E3%81%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=2000&color=F37AB2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E5%9B%B0%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%8D%E3%81%AF%E3%80%81%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6;%E5%8F%8C%E8%91%89%E3%81%AB%E3%81%AA%E3%82%8C%E3%81%B0%E3%80%81%E3%81%99%E3%81%90%E5%88%86%E3%81%8B%E3%82%8B%E3%82%88;%E6%A2%93%E5%B7%9D%E3%80%81%E5%90%9B%E3%81%AF%E6%9C%AC%E5%BD%93%E3%81%AB%E9%9D%92%E6%98%A5%E3%83%96%E3%82%BF%E9%87%8E%E9%83%8E%E3%81%A0" alt="Typing SVG" />
 </p>
 
 ---
