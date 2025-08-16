@@ -1,4 +1,4 @@
-![header](https://img.xihuannio.cn/uploads/2025/08/16/660311630.png)
+![header](./8d05e5365bc5a95491ee4cb834985091fe8ed784.png)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F37AB2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%F0%9F%8C%B8+Otaku%2C+Coder+%26+DevOps;%F0%9F%92%AE+%E5%BF%83%E3%81%AE%E5%90%91%E3%81%8B%E3%81%86%E3%81%BE%E3%81%BE%E3%81%AB%E3%80%81%E9%9F%B3%E3%81%AE%E5%B1%8A%E3%81%8F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%B8;%F0%9F%8E%80+%E3%81%A0%E3%81%A3%E3%81%A6%E3%80%81%E3%81%9A%E3%81%A3%E3%81%A8%E5%90%9B%E3%81%AE%E3%81%93%E3%81%A8%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A0%EF%BC%81" alt="Typing SVG" />
 </p>
