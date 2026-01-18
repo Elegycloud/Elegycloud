@@ -12,8 +12,10 @@
 ---
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elegycloud&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="49%" src="https://streakstats.wangecloud.cn/?user=Elegycloud&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Elegycloud&theme=tokyonight&hide_border=true" height="160" alt="streak" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Elegycloud&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Elegycloud&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="langs" />
 </p>
 
 ### 📚The language I am currently learning
@@ -32,13 +34,6 @@
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=64b5f6&logo=Docker&logoColor=1c1c1c&label= "Docker")
 
 ---
-
-<p align="center">
-  <span style="display: inline-flex; gap: 30px; align-items: center;">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bgcylqxuofskjxhnecqyvl23tm" alt="Recently Played on Spotify" />
-    <img src="https://netease-recent-profile.wangecloud.cn/?id=8352726587&type=1&size=60" alt="netease" />
-  </span>
-</p>
 
 <p align="center">
   <span style="display: inline-flex; gap: 30px; align-items: center;">
